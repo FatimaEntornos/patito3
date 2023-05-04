@@ -1,4 +1,5 @@
 Algoritmo mn
+	Escribir "Prueba"
 	
 	Escribir "1. Suma de dos números:"
 	Escribir "2. Resta de dos números:"
